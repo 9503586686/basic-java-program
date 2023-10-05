@@ -1,6 +1,7 @@
 import java.util.*;
 
-class program326
+class Addition
+    
 {
     public static void main(String arg[])
     {
